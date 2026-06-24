@@ -96,14 +96,6 @@ print(answer.response)
 print(answer.sources)  # 显示引用来源
 ```
 
-## 面试亮点
-
-1. **深度理解Agent痛点** —— 从实际使用经验出发
-2. **向量数据库应用** —— ChromaDB + Embedding
-3. **RAG实现** —— 检索增强生成
-4. **幻觉检测** —— AI安全和可靠性
-5. **全栈能力** —— 前后端 + AI + 数据库
-
 ## License
 
 MIT
